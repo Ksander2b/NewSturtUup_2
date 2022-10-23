@@ -1,4 +1,4 @@
-# ![Логотип NeuroStart](img/NeuroStartUpIcon.png) NeuroStart
+# ![Логотип NeuroStartUp](img/NeuroStartUpIcon.png) NeuroStartUp
 
 **Искусственный интеллект, решающий ваши бизнес-задачи.** Воспользуйтесь современными возможностями искусственного интеллекта, оставив конкурентов позади!
 
